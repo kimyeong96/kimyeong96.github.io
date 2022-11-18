@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "ArrayList 메서드"
+title:  "Java ArrayList 메서드"
 categories: Java
 tag: [JAVA, ArrayList]
 toc: true

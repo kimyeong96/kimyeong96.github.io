@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "컬렉션 프레임워크(Collection Framework) 1편"
+title:  "Java 컬렉션 프레임워크(Collection Framework) 1편"
 categories: Java
 tag: [JAVA, 컬렉션프레임워크, ArrayList, LinkedList, 자바의 정석]
 toc: true
