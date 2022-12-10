@@ -94,6 +94,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Jpa" %}
+                        <li><a href="/categories/Jpa" class=""> Jpa({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <span class="nav__sub-title">Algorithm</span>
         <ul>
             {% for category in site.categories %}
